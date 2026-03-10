@@ -1283,7 +1283,7 @@ either :)
 
 
 [log]: https://ircbrowse.tomsmeding.com/browse/lcxmonad
-[EWMH]: https://specifications.freedesktop.org/wm-spec/wm-spec-1.3.html
+[EWMH]: https://specifications.freedesktop.org/wm/latest/
 [ICCCM]: https://tronche.com/gui/x/icccm/
 [webchat]: https://web.libera.chat/#xmonad
 [about xmonad]: https://xmonad.org/about.html

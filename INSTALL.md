@@ -390,7 +390,7 @@ if your xmonad configuration resides within `~/.xmonad`, then the
 executable will also be within that directory and not in
 `$XDG_CACHE_HOME`.
 
-[XDG]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
+[XDG]: https://specifications.freedesktop.org/basedir/latest/
 [git]: https://git-scm.com/
 [stack]: https://docs.haskellstack.org/en/stable/README/
 [cabal-install]: https://www.haskell.org/cabal/
